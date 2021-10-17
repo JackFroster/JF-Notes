@@ -14,4 +14,4 @@ $$ \Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert $$
 为了在浏览器中能正确显示上述公式，采取如下方式：
 
 在 Chrome 的扩展程序中，打开 Chrome 网上应用店，然后搜索 **MathJax Plugin for Github**，下载该插件，并且启用，就可以让上述公式正常显示。
-或者点击 [MathJax Plugin for Github] (https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+或者点击 [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
