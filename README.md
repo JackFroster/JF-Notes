@@ -4,6 +4,10 @@
 
 笔记工具使用 Typora 编写 Markdown.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/JackFroster/Images/main/image/202110171205398.jpg" alt="芝士" width = "15%" align= "center"/>
+</div>
+
 #### 安装 Chrome 插件
 此仓库中包括许多 Markdown 形式的文档，发现自己的浏览器里打开这些文档的时候，没法正常显示**公式**，显示的都是公式的 Markdown 代码形式，例如这种形式：
 
